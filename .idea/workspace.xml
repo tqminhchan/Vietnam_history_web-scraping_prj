@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcdaaf0d-022c-4293-af1d-7241bfd5964c" name="Changes" comment="create-diadiem-info-window-and-refactor-code">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_base_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_base_win_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_controls_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_controls_win_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_fxml_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_graphics_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_19_ea_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/DiaDiemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/HistoryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/LeHoiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/NewWindowDiaDiemInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/NewWindowLehoiInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/NewWindowNhanVatInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/NewWindowSuKienInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/NewWindowThoiKyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/NhanVatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/ReadDataFromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/SceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/SearchTextFieldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/SuKienController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/ThoiKiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/XCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/XCell_DiaDiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/XCell_LeHoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/XCell_NhanVat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/XCell_SuKien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/XCell_ThoiKy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/Crawl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/CrawlerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/DiaDiemCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/LeHoiCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/NhanVatCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/SuKienCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/crawler/ThoiKyCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsondata/DiaDiem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsondata/LeHoi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsondata/NhanVat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsondata/SuKien.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jsondata/ThoiKy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/diadiem/DiaDiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/lehoi/LeHoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/nhanvat/NhanVat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/sukien/SuKien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/thoiky/ThoiKy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI/diadiem-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI/lehoi-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI/mainMenu-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI/nhanvat-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI/sukien-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI/thoiki-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2L0TLtjDbuhHTXcbxPaZVHFPdnu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/OOP Slide/CrawlerProject-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "two.files.diff.last.used.folder": "C:/Users/Mikeljinx/git/VietnamHistory/UI"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2. SoICT\2022_1\OOP\CrawlerProject\src\main\resources\com\example\ui" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcdaaf0d-022c-4293-af1d-7241bfd5964c" name="Changes" comment="lehoi-crawler" />
+      <created>1675006948998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675006948998</updated>
+      <workItem from="1675131815619" duration="225000" />
+      <workItem from="1675132054479" duration="442000" />
+      <workItem from="1675251608106" duration="1159000" />
+      <workItem from="1675652386346" duration="1437000" />
+      <workItem from="1675654185947" duration="170000" />
+      <workItem from="1675654424357" duration="125000" />
+      <workItem from="1675656421830" duration="1109000" />
+    </task>
+    <task id="LOCAL-00001" summary="lehoi-crawler">
+      <created>1675183872699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675183872699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix-worlspace">
+      <created>1675574004039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675574004039</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lehoi-crawler" />
+    <MESSAGE value="fix-worlspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix-worlspace" />
+  </component>
+</project>
