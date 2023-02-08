@@ -1,0 +1,501 @@
+[
+  {
+    "ngayBatDau": "5/1",
+    "viTri": "Hà Nội, quận Đống Đa",
+    "tenLeHoi": "Lễ hội Đống Đa",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Nguyễn Huệ"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "5/1",
+    "viTri": "Hà Nam, huyện Thanh Liêm",
+    "tenLeHoi": "Hội vật Liễu Đôi",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "tại làng Liễu Đôi"
+  },
+  {
+    "ngayBatDau": "6/1",
+    "viTri": "Hà Nội, Sóc Sơn",
+    "tenLeHoi": "hội Gióng Sóc Sơn",
+    "lanDauToChuc": "Nhà Tiền Lê",
+    "nhanVatLienQuan": [
+      "Thánh Gióng"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "6/1",
+    "viTri": "Hà Nội, Đông Anh",
+    "tenLeHoi": "Lễ hội Cổ Loa",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "An Dương Vương"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "6/1",
+    "viTri": "Ninh Bình, Gia Viễn",
+    "tenLeHoi": "Lễ hội chùa Bái Đính",
+    "lanDauToChuc": "Nhà Lý",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "7/1",
+    "viTri": "Nam Định, Vụ Bản",
+    "tenLeHoi": "Chợ Viềng",
+    "lanDauToChuc": "Nhà Trần",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "7/1",
+    "viTri": "Phú Yên, Ô Loan",
+    "tenLeHoi": "Lễ hội đầm Ô Loan",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "10/1",
+    "viTri": "Quảng Ninh, núi Yên Tử",
+    "tenLeHoi": "Hội xuân Yên Tử",
+    "lanDauToChuc": "thế kỷ 14",
+    "nhanVatLienQuan": [
+      "Trần Nhân Tông"
+    ],
+    "ghiChu": "Thiền phái Trúc Lâm, đến hết tháng 3"
+  },
+  {
+    "ngayBatDau": "13/1",
+    "viTri": "Phú Thọ, huyện Tam Nông",
+    "tenLeHoi": "Hội phết Hiền Quan",
+    "lanDauToChuc": "gần đây",
+    "nhanVatLienQuan": [
+      "Thiều Hoa công chúa",
+      "Mộc trang đại vương"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "13/1",
+    "viTri": "Bắc Ninh, huyện Tiên Du",
+    "tenLeHoi": "Hội Lim",
+    "lanDauToChuc": "Nhà Lê sơ",
+    "nhanVatLienQuan": [
+      "Nguyễn Đình Diễn"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "6/1",
+    "viTri": "Hà Nội, huyện Mỹ Đức",
+    "tenLeHoi": "Lễ hội chùa Hương",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Quan Thế Âm Bồ Tát"
+    ],
+    "ghiChu": "đến tháng 3 âm lịch"
+  },
+  {
+    "ngayBatDau": "15/1",
+    "viTri": "Hải Dương, huyện Chí Linh",
+    "tenLeHoi": "Hội chùa Côn Sơn",
+    "lanDauToChuc": "từ thế kỷ 14",
+    "nhanVatLienQuan": [
+      "Huyền Quang",
+      "Nguyễn Trãi"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "14/1",
+    "viTri": "Long An, thị trấn Tầm Vu",
+    "tenLeHoi": "Lễ hội làm chay",
+    "lanDauToChuc": "năm 1878",
+    "nhanVatLienQuan": [
+      "Đỗ Tường Phong",
+      "Đỗ Tường Tự"
+    ],
+    "ghiChu": "đến 16/1"
+  },
+  {
+    "ngayBatDau": "15/1",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Tết Nguyên tiêu",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "đêm 14 đến nửa đêm 15/1"
+  },
+  {
+    "ngayBatDau": "16/1",
+    "viTri": "Vĩnh Phúc, huyện Lập Thạch",
+    "tenLeHoi": "Lễ hội chọi trâu",
+    "lanDauToChuc": "thế kỷ 2 trước CN",
+    "nhanVatLienQuan": [],
+    "ghiChu": "không tổ chức từ 1947-2002"
+  },
+  {
+    "ngayBatDau": "4/1",
+    "viTri": "Tây Ninh, Núi Bà Đen",
+    "tenLeHoi": "Hội Xuân núi Bà",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Linh Sơn Thánh Mẫu"
+    ],
+    "ghiChu": "đến 16/1"
+  },
+  {
+    "ngayBatDau": "10/2",
+    "viTri": "Hà Nội, Hồ Tây",
+    "tenLeHoi": "Lễ hội đình Yên Phụ",
+    "lanDauToChuc": "thế kỷ 17",
+    "nhanVatLienQuan": [
+      "Uy Linh Lang",
+      "Vương Duy",
+      "Vương Ba"
+    ],
+    "ghiChu": "khôi phục từ 2003"
+  },
+  {
+    "ngayBatDau": "10/2",
+    "viTri": "Hà Nội, Đông Anh",
+    "tenLeHoi": "Lễ hội Miếu Mạch Lũng",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Minh Mỗ Đại vương Thượng đẳng thần"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "19/2",
+    "viTri": "Đà Nẵng, Ngũ Hành Sơn",
+    "tenLeHoi": "Lễ hội Quán Thế Âm",
+    "lanDauToChuc": "năm 1960",
+    "nhanVatLienQuan": [
+      "Quán Thế Âm Bồ Tát"
+    ],
+    "ghiChu": "diễn ra trong 3 ngày"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Không rõ",
+    "tenLeHoi": "Tiết Thanh minh",
+    "lanDauToChuc": "Nhà Thanh",
+    "nhanVatLienQuan": [],
+    "ghiChu": "diễn ra sau tiết xuân phân trước tiết cốc vũ"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Tây Nguyên",
+    "tenLeHoi": "Hội đua voi",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "lớn nhất ở Đắc Lắc, bản Đôn, tổ chức 2 năm 1 lần vào tháng 3 âm lịch"
+  },
+  {
+    "ngayBatDau": "3/3",
+    "viTri": "Không rõ",
+    "tenLeHoi": "Tết Hàn thực",
+    "lanDauToChuc": "Nhà Lê",
+    "nhanVatLienQuan": [
+      "Giới Tử Thôi",
+      "Tấn Văn Công"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "3/3",
+    "viTri": "Nam Định, Vụ Bản",
+    "tenLeHoi": "Hội Phủ Giầy",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Mẫu Liễu Hạnh"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "2/3",
+    "viTri": "Thừa Thiên Huế, huyện Hương Trà",
+    "tenLeHoi": "Lễ hội Điện Hòn Chén",
+    "lanDauToChuc": "thế kỷ 16",
+    "nhanVatLienQuan": [
+      "Thiên Y A Na"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "3/3",
+    "viTri": "Hà Tây, Quốc Oai",
+    "tenLeHoi": "Lễ hội Chùa Thầy",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Từ Đạo Hạnh"
+    ],
+    "ghiChu": "đến 7/3"
+  },
+  {
+    "ngayBatDau": "6/3",
+    "viTri": "Ninh Bình, huyện Hoa Lư",
+    "tenLeHoi": "Lễ hội Hoa Lư",
+    "lanDauToChuc": "Nhà Lý",
+    "nhanVatLienQuan": [
+      "Đinh Bộ Lĩnh"
+    ],
+    "ghiChu": "tên khác: Lễ hội cố đô Hoa Lư, đến 10/3"
+  },
+  {
+    "ngayBatDau": "14/3",
+    "viTri": "Ninh Bình, huyện Hoa Lư",
+    "tenLeHoi": "Lễ hội đền Thái Vi",
+    "lanDauToChuc": "Nhà Trần",
+    "nhanVatLienQuan": [
+      "Trần Thái Tông",
+      "Trần Thánh Tông",
+      "Trần Nhân Tông",
+      "Trần Anh Tông",
+      "Hiển Từ Hoàng Thái Hậu"
+    ],
+    "ghiChu": "đến 16/3"
+  },
+  {
+    "ngayBatDau": "8/3",
+    "viTri": "Hưng Yên, huyện Ân Thi",
+    "tenLeHoi": "Lễ hội Nam Trì",
+    "lanDauToChuc": "Thế kỉ 2 trước CN",
+    "nhanVatLienQuan": [
+      "Lang Công",
+      "Bảo Công",
+      "Công chúa Hùng vương Lâu nương"
+    ],
+    "ghiChu": "kéo dài 5 ngày"
+  },
+  {
+    "ngayBatDau": "10/3",
+    "viTri": "Nhiều nơi ở Việt Nam",
+    "tenLeHoi": "Giỗ tổ Hùng Vương",
+    "lanDauToChuc": "Nhà Đinh",
+    "nhanVatLienQuan": [
+      "Vua Hùng"
+    ],
+    "ghiChu": "lớn nhất tại Đền Hùng, Phú Thọ"
+  },
+  {
+    "ngayBatDau": "10/3",
+    "viTri": "Hưng Yên, Phố Hiến",
+    "tenLeHoi": "Lễ hội đền Mẫu",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Dương Quý Phi"
+    ],
+    "ghiChu": "đến 15/3"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Hải Phòng, huyện Cát Hải, Thị trấn Cát Bà",
+    "tenLeHoi": "Lễ hội Làng cá Cát Bà",
+    "lanDauToChuc": "1/4/1958",
+    "nhanVatLienQuan": [
+      "Hồ Chí Minh"
+    ],
+    "ghiChu": "1/4 dương lịch"
+  },
+  {
+    "ngayBatDau": "7/4",
+    "viTri": "Hà Nội, huyện Gia Lâm",
+    "tenLeHoi": "Hội Gióng Phù Đổng",
+    "lanDauToChuc": "Thế kỉ 11 đời Lý Thái Tổ",
+    "nhanVatLienQuan": [
+      "Thánh Gióng"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "8/4",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Lễ Phật Đản",
+    "lanDauToChuc": "624 trước CN",
+    "nhanVatLienQuan": [
+      "Phật Tất Đạt Đa"
+    ],
+    "ghiChu": "Phật giáo"
+  },
+  {
+    "ngayBatDau": "14/4",
+    "viTri": "Nam Bộ",
+    "tenLeHoi": "Lễ hội Chol Chnam Thmay",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Tết người Khmer"
+  },
+  {
+    "ngayBatDau": "18/3",
+    "viTri": "Quảng Ngãi, huyện Lý Sơn",
+    "tenLeHoi": "Lễ khao lề thế lính",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "đến 20/3"
+  },
+  {
+    "ngayBatDau": "23/4",
+    "viTri": "Miếu Bà Chúa Xứ, Núi Sam, An Giang, Châu Đốc",
+    "tenLeHoi": "Lễ hội miếu Bà Chúa Xứ",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Bà Chúa Xứ"
+    ],
+    "ghiChu": "đến 27/4"
+  },
+  {
+    "ngayBatDau": "5/5",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Tết Đoan ngọ",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Tết giết sâu bọ"
+  },
+  {
+    "ngayBatDau": "7/7",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Thất Tịch",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Ngưu Lang",
+      "Chức Nữ"
+    ],
+    "ghiChu": "Ngày lễ tình nhân Đông phương"
+  },
+  {
+    "ngayBatDau": "15/7",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Lễ Vu Lan, Tết Trung Nguyên",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Bồ tát Mục Liên"
+    ],
+    "ghiChu": "báo hiếu cha mẹ"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Phan Thiết (Bình Thuận)",
+    "tenLeHoi": "Lễ hội Nghinh Ông (Quan Thánh Đế Quân)",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "của Người Hoa, tổ chức vào năm chẵn Tây Lịch"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Bình Thuận",
+    "tenLeHoi": "Lễ hội Katê",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Lễ hội người Chăm, 1 tháng 7 theo lịch Chăm"
+  },
+  {
+    "ngayBatDau": "9/8",
+    "viTri": "Hải Phòng, Đồ Sơn",
+    "tenLeHoi": "Lễ hội chọi trâu",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "15/8",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Tết Trung Thu",
+    "lanDauToChuc": "Nhà Đường",
+    "nhanVatLienQuan": [
+      "Hằng Nga",
+      "Hậu Nghệ",
+      "Đường Minh Hoàng",
+      "Chú Cuội"
+    ],
+    "ghiChu": "Tết thiếu nhi"
+  },
+  {
+    "ngayBatDau": "15/8",
+    "viTri": "Hải Dương, huyện Chí Linh",
+    "tenLeHoi": "Hội Đền Kiếp Bạc",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Trần Hưng Đạo"
+    ],
+    "ghiChu": "đến 20/8"
+  },
+  {
+    "ngayBatDau": "15/8",
+    "viTri": "Tây Ninh, Tòa Thánh Tây Ninh",
+    "tenLeHoi": "Hội Yến Diêu Trì",
+    "lanDauToChuc": "năm 1925",
+    "nhanVatLienQuan": [
+      "Cao Quỳnh Cư",
+      "Phạm Công Tắc",
+      "Cao Hoài Sang",
+      "Nguyễn Thị Hiếu"
+    ],
+    "ghiChu": "Đạo Cao Đài"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Bình Thuận, Tiền Giang",
+    "tenLeHoi": "Lễ hội Nghinh Ông (Cá Voi)",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "Không rõ",
+    "viTri": "Rạch Giá, Kiên Giang",
+    "tenLeHoi": "Lễ hội AHDT Nguyễn Trung Trực",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Nguyễn Trung Trực"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "13/9",
+    "viTri": "Thái Bình, Vũ Thư",
+    "tenLeHoi": "Lễ hội Chùa Keo",
+    "lanDauToChuc": "Nhà Lý",
+    "nhanVatLienQuan": [
+      "Thiền sư Không Lộ"
+    ],
+    "ghiChu": "đến 15/9"
+  },
+  {
+    "ngayBatDau": "15/10",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Tết cơm mới",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [],
+    "ghiChu": "Tết song thập"
+  },
+  {
+    "ngayBatDau": "13/11",
+    "viTri": "Ninh Bình, huyện Kim Sơn",
+    "tenLeHoi": "Lễ hội đền Nguyễn Công Trứ",
+    "lanDauToChuc": "Nhà Nguyễn",
+    "nhanVatLienQuan": [
+      "Nguyễn Công Trứ"
+    ],
+    "ghiChu": "Không có"
+  },
+  {
+    "ngayBatDau": "23/12",
+    "viTri": "Nhiều quốc gia",
+    "tenLeHoi": "Tiễn Ông Táo về trời",
+    "lanDauToChuc": "Không rõ",
+    "nhanVatLienQuan": [
+      "Thổ Công",
+      "Thổ địa",
+      "Thổ kỳ"
+    ],
+    "ghiChu": "Không có"
+  }
+]
