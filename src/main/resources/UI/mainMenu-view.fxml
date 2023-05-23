@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="363.0" prefWidth="601.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UI.SceneController">
+<!--   <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="363.0" prefWidth="601.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">-->
+   <Button layoutX="133.0" layoutY="102.0" mnemonicParsing="false" onAction="#switchToNhanVat" prefHeight="30.0" prefWidth="360.0" text="Historical Figure"/>
+   <Button layoutX="133.0" layoutY="313.0" mnemonicParsing="false" onAction="#switchToDiaDiem" prefHeight="30.0" prefWidth="360.0" text="Place" />
+   <Button layoutX="133.0" layoutY="155.0" mnemonicParsing="false" onAction="#switchToSuKien" prefHeight="30.0" prefWidth="360.0" text="Event" />
+   <Button layoutX="133.0" layoutY="208.0" mnemonicParsing="false" onAction="#switchToThoiKi" prefHeight="30.0" prefWidth="360.0" text="Era" />
+   <Button layoutX="133.0" layoutY="261.0" mnemonicParsing="false" onAction="#switchToLeHoi" prefHeight="30.0" prefWidth="360.0" text="Festival" />
+   <Label layoutX="239.0" layoutY="54.0" text="検索するエンティティを翻訳しなさい!" />
+</AnchorPane>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UI.NhanVatController">
+
+   <children>
+      <Button layoutX="500.0" layoutY="29.0" mnemonicParsing="false" onAction="#search" prefHeight="25.0" prefWidth="75.0" text="Search" />
+      <TextField fx:id="searchBar" layoutX="90.0" layoutY="29.0" prefHeight="26.0" prefWidth="405.0" />
+      <ListView fx:id="listView_nhanVat" layoutX="25.0" layoutY="75.0" prefHeight="300.0" prefWidth="550.0" />
+      <Button layoutX="25.0" layoutY="29.0" mnemonicParsing="false" onAction="#switchToMainMenuInOther" prefHeight="26.0" prefWidth="60.0" text="Back" /></children>
+</AnchorPane>
